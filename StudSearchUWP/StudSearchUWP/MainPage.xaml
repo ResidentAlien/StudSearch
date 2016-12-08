@@ -10,13 +10,13 @@
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <TextBox x:Name="tbSearch" HorizontalAlignment="Left" Height="23" Margin="14,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Button x:Name="btnConfirm" Content="Search" HorizontalAlignment="Left" Margin="139,25,0,0" VerticalAlignment="Top" Width="70" Height="32" RenderTransformOrigin="1,2.056" Click="btnConfirm_Click"/>
-        <ListBox x:Name="lbStudents" HorizontalAlignment="Left" Height="112" Margin="316,49,0,0" VerticalAlignment="Top" Width="327" SelectionMode="Single" DoubleTapped="lbStudents_MouseDoubleClick"/>
+        <ListBox x:Name="lbStudents" HorizontalAlignment="Left" Height="112" Margin="316,49,0,0" VerticalAlignment="Top" Width="327" SelectionMode="Single" SelectionChanged="lbStudents_SelectionChanged"/>
         <TextBlock x:Name="lblFname" Text="First" HorizontalAlignment="Left" Margin="78,91,0,0" VerticalAlignment="Top" Width="110" Height="24" FontSize="11"/>
         <TextBlock x:Name="lblLname" Text="Last" HorizontalAlignment="Left" Margin="78,108,0,0" VerticalAlignment="Top" FontSize="11"/>
         <TextBlock x:Name="lblID" Text="ID" HorizontalAlignment="Left" Margin="79,131,0,0" VerticalAlignment="Top" FontSize="11"/>
         <TextBlock x:Name="lblStudentHead" Text="Student Info Displayed Below" HorizontalAlignment="Left" Margin="1,65,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
         <TextBlock x:Name="lblCourseHead" Text="Course Info Displayed Below" HorizontalAlignment="Left" Margin="0,157,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.061,1.385" FontWeight="Bold"/>
-        <ListBox x:Name="lbCourses" HorizontalAlignment="Left" Height="100" Margin="316,192,0,0" VerticalAlignment="Top" Width="327" SelectionMode="Single" DoubleTapped="lbCourses_MouseDoubleClick"/>
+        <ListBox x:Name="lbCourses" HorizontalAlignment="Left" Height="100" Margin="316,192,0,0" VerticalAlignment="Top" Width="327" SelectionMode="Single" SelectionChanged="lbCourses_SelectionChanged"/>
         <TextBlock x:Name="lblCourseNam" Text="Name" HorizontalAlignment="Left" Margin="73,188,0,0" VerticalAlignment="Top" FontSize="11"/>
         <TextBlock x:Name="lblCourseCred" Text="Credits" HorizontalAlignment="Left" Margin="71,369,0,0" VerticalAlignment="Top" FontSize="11"/>
         <TextBlock x:Name="lblSemster" Text="Semester" HorizontalAlignment="Left" Margin="73,273,0,0" VerticalAlignment="Top" FontSize="11"/>
