@@ -14,7 +14,7 @@
         </Grid.ColumnDefinitions>
         <StackPanel Grid.Column="1">
 
-            <TextBlock x:Name="lblStudentHead" Text="Student Info Displayed Below" HorizontalAlignment="Left" Margin="5,20,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+            <TextBlock x:Name="lblStudentHead" Text="Student Info Displayed Below" HorizontalAlignment="Left" Margin="5,75,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
             <StackPanel Orientation="Horizontal">
                 <TextBlock x:Name="label2" Text="First Name:" HorizontalAlignment="Left" Margin="15,5,0,0" VerticalAlignment="Top" FontSize="11"/>
                 <TextBlock x:Name="lblFname" Text="First" HorizontalAlignment="Left" Margin="5,5,0,0" VerticalAlignment="Top" FontSize="11"/>
@@ -64,10 +64,10 @@
         </StackPanel>
         <StackPanel Grid.Column="0">
             <StackPanel Orientation="Horizontal">
-                <TextBox x:Name="tbSearch" HorizontalAlignment="Left" Height="23" Margin="14,25,5,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-                <Button x:Name="btnConfirm" Content="Search" HorizontalAlignment="Left" Margin="0,25,5,0" VerticalAlignment="Top" Width="70" Height="32" Click="btnConfirm_Click"/>
+                <TextBox x:Name="tbSearch" HorizontalAlignment="Left" Height="23" Margin="14,10,5,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                <Button x:Name="btnConfirm" Content="Search" HorizontalAlignment="Left" Margin="0,10,5,0" VerticalAlignment="Top" Width="70" Height="32" Click="btnConfirm_Click"/>
             </StackPanel>
-            <TextBlock x:Name="label3" Text="Students:" HorizontalAlignment="Left" Margin="5,25,0,0" VerticalAlignment="Top" Width="150" FontWeight="Bold" FontSize="16"/>
+            <TextBlock x:Name="label3" Text="Students:" HorizontalAlignment="Left" Margin="5,5,0,0" VerticalAlignment="Top" Width="150" FontWeight="Bold" FontSize="16"/>
             <ListBox x:Name="lbStudents" HorizontalAlignment="Left" Height="100" Margin="5,10,0,0" VerticalAlignment="Top" SelectionMode="Single" SelectionChanged="lbStudents_SelectionChanged"/>
             <TextBlock x:Name="label4" Text="Courses:" HorizontalAlignment="Left" Margin="5,10,0,0" VerticalAlignment="Top" Width="150" FontSize="16" FontWeight="Bold"/>
             <ListBox x:Name="lbCourses" HorizontalAlignment="Left" Height="100" Margin="5,10,0,0" VerticalAlignment="Top" SelectionMode="Single" SelectionChanged="lbCourses_SelectionChanged"/>
