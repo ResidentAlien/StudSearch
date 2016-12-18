@@ -1,0 +1,354 @@
+[
+  {
+
+    "DepartmentName": "SENG",
+    "CourseNumber": 101,
+    "CourseID": 1000,
+    "CourseDescription": "Computer Programming 1",
+    "CourseType": "Core",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "SENG",
+    "CourseNumber": 201,
+    "CourseID": 1001,
+    "CourseDescription": "Computer Programming 2",
+    "CourseType": "Core",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "SENG",
+    "CourseNumber": 300,
+    "CourseID": 1002,
+    "CourseDescription": "Software Data Structures and Algorithms",
+    "CourseType": "Core",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "SENG",
+    "CourseNumber": 315,
+    "CourseID": 1003,
+    "CourseDescription": "Software Component Design",
+    "CourseType": "Core",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "SENG",
+    "CourseNumber": 400,
+    "CourseID": 1004,
+    "CourseDescription": "Engineering Enterprise Software Applications",
+    "CourseType": "Core",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "SENG",
+    "CourseNumber": 430,
+    "CourseID": 1005,
+    "CourseDescription": "Programming Graphical User Interfaces",
+    "CourseType": "Core",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "SENG",
+    "CourseNumber": 160,
+    "CourseID": 1006,
+    "CourseDescription": "Software Engineering Methodologies and Processes",
+    "CourseType": "Core",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "SENG",
+    "CourseNumber": 170,
+    "CourseID": 1007,
+    "CourseDescription": "Software Requirements Management",
+    "CourseType": "Core",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "SENG",
+    "CourseNumber": 210,
+    "CourseID": 1008,
+    "CourseDescription": "Software Configuration Management",
+    "CourseType": "Core",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "SENG",
+    "CourseNumber": 301,
+    "CourseID": 1009,
+    "CourseDescription": "Software Engineering Tools and Practices",
+    "CourseType": "Core",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "SENG",
+    "CourseNumber": 302,
+    "CourseID": 1010,
+    "CourseDescription": "Software Quality Assurance",
+    "CourseType": "Core",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "SENG",
+    "CourseNumber": 350,
+    "CourseID": 1011,
+    "CourseDescription": "Software Design and Architecture",
+    "CourseType": "Core",
+    "CreditHours": "3 ",
+  },
+  {
+    "DepartmentName": "COMM",
+    "CourseNumber": 121,
+    "CourseID": 1012,
+    "CourseDescription": "Fundamentals of Public Speaking",
+    "CourseType": "General",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "ENGL",
+    "CourseNumber": 150,
+    "CourseID": 1013,
+    "CourseDescription": "English 1",
+    "CourseType": "General",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "ENGL",
+    "CourseNumber": 250,
+    "CourseID": 1014,
+    "CourseDescription": "English 2",
+    "CourseType": "General",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "ENGL",
+    "CourseNumber": 311,
+    "CourseID": 1015,
+    "CourseDescription": "Advanced Technical Writing",
+    "CourseType": "General",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "ENGL",
+    "CourseNumber": 325,
+    "CourseID": 1016,
+    "CourseDescription": "Advanced Technical Writing",
+    "CourseType": "General",
+    "CreditHours": "3 ",
+  },
+  {
+    "DepartmentName": "LAB SCIENCE",
+    "CourseNumber": 101,
+    "CourseID": 1017,
+    "CourseDescription": "Chemistry",
+    "CourseType": "General",
+    "CreditHours": "4 "
+  },
+  {
+    "DepartmentName": "PHYS",
+    "CourseNumber": 241,
+    "CourseID": 1018,
+    "CourseDescription": "General Physics 1",
+    "CourseType": "General",
+    "CreditHours": "5 "
+  },
+  {
+    "DepartmentName": "PHYS",
+    "CourseNumber": 242,
+    "CourseID": 1019,
+    "CourseDescription": "General Physics 2",
+    "CourseType": "General",
+    "CreditHours": "5 "
+  },
+  {
+    "DepartmentName": "ELECTIVE",
+    "CourseNumber": 100,
+    "CourseID": 1020,
+    "CourseDescription": "Cultural Enrichment",
+    "CourseType": "General",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "ELECTIVE",
+    "CourseNumber": 105,
+    "CourseID": 1021,
+    "CourseDescription": "Cultural Enrichment",
+    "CourseType": "General",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "ELECTIVE",
+    "CourseNumber": 106,
+    "CourseID": 1022,
+    "CourseDescription": "Social Awareness",
+    "CourseType": "General",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "EN",
+    "CourseNumber": 270,
+    "CourseID": 1023,
+    "CourseDescription": "Multicultural Literature",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "LITR",
+    "CourseNumber": 202,
+    "CourseID": 1024,
+    "CourseDescription": "Black Literature",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "PO",
+    "CourseNumber": 103,
+    "CourseID": 1025,
+    "CourseDescription": "Introduction to Photography",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "HIST",
+    "CourseNumber": 152,
+    "CourseID": 1026,
+    "CourseDescription": "Western Civilization Since 1500",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "HIST",
+    "CourseNumber": 373,
+    "CourseID": 1027,
+    "CourseDescription": "Twentieth Century Russia",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "MUSI",
+    "CourseNumber": 232,
+    "CourseID": 1028,
+    "CourseDescription": "Introduction to Music Listening",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "ANTH",
+    "CourseNumber": 122,
+    "CourseID": 1029,
+    "CourseDescription": "Introduction to Cultural Anthropology",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "GEOG",
+    "CourseNumber": 100,
+    "CourseID": 1030,
+    "CourseDescription": "Geography of World Regions",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "GEOG",
+    "CourseNumber": 112,
+    "CourseID": 1031,
+    "CourseDescription": "Cultural Geography",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "PLSC",
+    "CourseNumber": 323,
+    "CourseID": 1032,
+    "CourseDescription": "International Organization",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "PLSC",
+    "CourseNumber": 331,
+    "CourseID": 1033,
+    "CourseDescription": "Comparative World Governments",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "PLSC",
+    "CourseNumber": 341,
+    "CourseID": 1034,
+    "CourseDescription": "International Relations",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "SOCY",
+    "CourseNumber": 335,
+    "CourseID": 1035,
+    "CourseDescription": "Marriage and Family",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "PLSC",
+    "CourseNumber": 121,
+    "CourseID": 1036,
+    "CourseDescription": "American Government 1",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "PSYC",
+    "CourseNumber": 150,
+    "CourseID": 1037,
+    "CourseDescription": "Introduction to Psychology",
+    "CourseType": "Elective",
+    "CreditHours": "3 ",
+  },
+  {
+    "DepartmentName": "PSYC",
+    "CourseNumber": 226,
+    "CourseID": 1038,
+    "CourseDescription": "Lifespan Human Development",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "PSYC",
+    "CourseNumber": 341,
+    "CourseID": 1039,
+    "CourseDescription": "Child Psychology",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "PSYC",
+    "CourseNumber": 342,
+    "CourseID": 1040,
+    "CourseDescription": "Psychology of Adolescence",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "SOCY",
+    "CourseNumber": 121,
+    "CourseID": 1041,
+    "CourseDescription": "Introductory Sociology",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "SOCY",
+    "CourseNumber": 122,
+    "CourseID": 1042,
+    "CourseDescription": "Social Problems",
+    "CourseType": "Elective",
+    "CreditHours": "3 "
+  },
+  {
+    "DepartmentName": "SOCY",
+    "CourseNumber": 340,
+    "CourseID": 1043,
+    "CourseDescription": "Minority Groups in America",
+    "CreditHours": "3 "
+  }
+]

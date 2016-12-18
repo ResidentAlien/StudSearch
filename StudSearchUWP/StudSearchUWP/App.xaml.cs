@@ -7,6 +7,8 @@ using Windows.ApplicationModel;
 using Windows.ApplicationModel.Activation;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using Windows.Foundation.Metadata;
+using Windows.UI.ViewManagement;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -42,7 +44,14 @@ namespace StudSearchUWP
 #if DEBUG
             if (System.Diagnostics.Debugger.IsAttached)
             {
-                this.DebugSettings.EnableFrameRateCounter = true;
+                this.DebugSettings.EnableFrameRateCounter = false;
+            }
+
+            // If we have a phone contract, hide the status bar
+            if (ApiInformation.IsApiContractPresent("Windows.Phone.PhoneContract", 1, 0))
+            {
+                var statusBar = StatusBar.GetForCurrentView();
+                statusBar.HideAsync().AsTask().ConfigureAwait(false).GetAwaiter().GetResult();
             }
 #endif
             Frame rootFrame = Window.Current.Content as Frame;

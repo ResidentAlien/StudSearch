@@ -1,0 +1,109 @@
+[
+    {
+        "Fname": "Billy",
+        "Lname": "Bob",
+        "ID": 12345678,
+        "Courses": [
+            {
+                "CourseID": 1001,
+                "Semester": 2,
+                "Year": 2015,
+                "Grade": "A"
+            },
+            {
+                "CourseID": 1020,
+                "Semester": 1,
+                "Year": 2015,
+                "Grade": "C"
+            },
+            {
+                "CourseID": 1003,
+                "Semester": 0,
+                "Year": 2016,
+                "Grade": "W"
+            }
+        ]
+    },
+    {
+        "Fname": "Jimbo",
+        "Lname": "Jones",
+        "ID": 87654321,
+        "Courses": [
+            {
+                "CourseID": 1002,
+                "Semester": 2,
+                "Year": 2015,
+                "Grade": "B"
+            },
+            {
+                "CourseID": 1023,
+                "Semester": 2,
+                "Year": 2015,
+                "Grade": "C"
+            },
+            {
+                "CourseID": 1030,
+                "Semester": 2,
+                "Year": 2015,
+                "Grade": "C"
+            }
+        ]
+    },
+    {
+        "Fname": "Vinny",
+        "Lname": "Vici",
+        "ID": 45612378,
+        "Courses": [
+            {
+                "CourseID": 1040,
+                "Semester": 1,
+                "Year": 2015,
+                "Grade": "B"
+            },
+            {
+                "CourseID": 1011,
+                "Semester": 2,
+                "Year": 2016,
+                "Grade": "A"
+            }
+        ]
+    },
+    {
+        "Fname": "Ronnie",
+        "Lname": "Ronaldo",
+        "ID": 32198745,
+        "Courses": [
+            {
+                "CourseID": 1005,
+                "Semester": 1,
+                "Year": 2015,
+                "Grade": "I"
+            },
+            {
+                "CourseID": 1026,
+                "Semester": 2,
+                "Year": 2015,
+                "Grade": "D"
+            }
+        ]
+    },
+    {
+        "Fname": "Adam",
+        "Lname": "Applesauce",
+        "ID": 78965412,
+        "Courses": [
+            {
+                "CourseID": 1025,
+                "Semester": 2,
+                "Year": 2016,
+                "Grade": "F"
+            },
+            {
+                "CourseID": 1017,
+                "Semester": 2,
+                "Year": 2016,
+                "Grade": "C"
+            }
+        ]
+    }
+]
